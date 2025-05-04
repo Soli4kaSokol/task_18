@@ -1,5 +1,3 @@
 test case1
-Europe
-Asia
-USA
-Africa
+
+test case2
